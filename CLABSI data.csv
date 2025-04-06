@@ -1,0 +1,12 @@
+ICU Type,Number of Infections,Patient Line Days,Patient Days
+Cardiothoracic,44,78416,109814
+Coronary,43,51979,136715
+Medical,123,110273,227171
+Medical/Surgical,129,147714,341219
+Neonatal- Level II/III,11,5248,44453
+Neonatal- Level III,20,15838,104234
+Neonatal- Regional Perinatal,62,60020,248681
+Neurosurgical,18,20848,63471
+Pediatric,22,31099,84945
+Surgical,74,77669,156177
+ALL,546,599104,1516880
